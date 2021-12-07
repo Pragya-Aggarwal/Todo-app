@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "taskName": "market",
+      "completed": false,
+      "description": "shopping",
+      "date": "3021-12-20",
+      "time": "4:45"
+    },
+    {
+      "id": 2,
+      "taskName": "shopping",
+      "completed": true,
+      "description": "books",
+      "date": "2021-12-12",
+      "time": "4:45 PM",
+      "status": "deleted"
+    },
+    {
+      "taskName": "dev Item",
+      "description": "todo app 1",
+      "date": "2221-12-09",
+      "time": "18:14",
+      "id": 3,
+      "status": "completed"
+    },
+    {
+      "taskName": "dev ",
+      "description": "news website",
+      "date": "2021-12-22",
+      "time": "16:58",
+      "id": 5
+    }
+  ]
+}
